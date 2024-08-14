@@ -6,7 +6,7 @@ subtitle: <a href='#'>Rutgers University</a>.
 
 profile:
   align: right
-  image: IMG_1110.HEIC
+  image: IMG_1110.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>zirui [dot] li [at] rutgers [dot] edu</p>
