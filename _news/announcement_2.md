@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 I have passed my Ph.D. candidate qualifying exam! See the slides [here](https://abclzr.github.io/assets/pdf/qual_May8th_2025.pdf).
-
-

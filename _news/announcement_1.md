@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 Our paper [Tetris: A Compilation Framework for VQA Applications in Quantum Computing](https://arxiv.org/abs/2309.01905) won the 2024 ISCA Distinguished Artifact Award! :smile:
-
-
